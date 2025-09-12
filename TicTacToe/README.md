@@ -18,8 +18,8 @@ Players take turns marking spaces on a 3x3 grid until one wins or the board is f
 
 ## 📂 Project Structure
 ```
-tic_tac_toe/
-│-- tic_tac_toe.py # Main game script
+TicTacToe/
+│-- tictactoe.py # Main game script
 │-- README.md # Project documentation
 ```
 
