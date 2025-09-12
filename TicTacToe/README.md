@@ -26,6 +26,7 @@ TicTacToe/
 ---
 
 ## 👥 Contributors
+Our team alias is **Silicon Valley Devs** comprising of:
 - **Brian**
 - **Petra**
 - **Roic**
