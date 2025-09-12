@@ -1,0 +1,45 @@
+# 🎮 Tic-Tac-Toe Game
+
+A simple **Tic-Tac-Toe (Noughts & Crosses)** game implemented in Python.  
+Players take turns marking spaces on a 3x3 grid until one wins or the board is full (tie).
+
+---
+
+## 🖼️ Preview
+
+![Tic Tac Toe](https://images.unsplash.com/photo-1617957741642-9d5cfbf4541d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+
+*Photo by [Solstice Hannan](https://unsplash.com/@solsticehannan) on [Unsplash](https://unsplash.com/photos/a-sign-with-letters-and-numbers--yhBOqHOr0c)*
+
+---
+
+## 🚀 How to Play
+1. Run the Python script in your terminal.
+2. The board will be displayed with coordinates:
+    - Rows: `0, 1, 2`
+    - Columns: `0, 1, 2`
+3. On your turn, enter the row and column where you want to place your mark (`X` or `O`).
+4. The first player to align three marks in a row, column, or diagonal wins.
+5. If the board fills up with no winner, the game ends in a tie.
+
+---
+
+## 📂 Project Structure
+```
+tic_tac_toe/
+│-- tic_tac_toe.py # Main game script
+│-- README.md # Project documentation
+```
+
+---
+
+## 👥 Contributors
+- **Brian**
+- **Petra**
+- **Roic**
+
+---
+
+## ⚖️ License
+This project is for learning purposes and is open to modification and sharing.
+
