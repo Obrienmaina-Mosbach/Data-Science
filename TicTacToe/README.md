@@ -5,14 +5,6 @@ Players take turns marking spaces on a 3x3 grid until one wins or the board is f
 
 ---
 
-## 🖼️ Preview
-
-![Tic Tac Toe](https://unsplash.com/photos/a-sign-with-letters-and-numbers--yhBOqHOr0c)
-
-*Photo by [Solstice Hannan](https://unsplash.com/photos/a-sign-with-letters-and-numbers--yhBOqHOr0c)*
-
----
-
 ## 🚀 How to Play
 1. Run the Python script in your terminal.
 2. The board will be displayed with coordinates:
