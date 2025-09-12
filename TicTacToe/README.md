@@ -7,9 +7,9 @@ Players take turns marking spaces on a 3x3 grid until one wins or the board is f
 
 ## 🖼️ Preview
 
-![Tic Tac Toe](https://images.unsplash.com/photo-1617957741642-9d5cfbf4541d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![Tic Tac Toe](https://unsplash.com/photos/a-sign-with-letters-and-numbers--yhBOqHOr0c)
 
-*Photo by [Solstice Hannan](https://unsplash.com/@solsticehannan) on [Unsplash](https://unsplash.com/photos/a-sign-with-letters-and-numbers--yhBOqHOr0c)*
+*Photo by [Solstice Hannan](https://unsplash.com/photos/a-sign-with-letters-and-numbers--yhBOqHOr0c)*
 
 ---
 
